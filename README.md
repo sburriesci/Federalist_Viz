@@ -1,1 +1,0 @@
-This notebook cleans the Project Gutenberg version of [The Federalist Papers] (https://www.gutenberg.org/cache/epub/1404/pg1404.txt), then visualizes authorship counts, top term counts, and top named entity counts.
